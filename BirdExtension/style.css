@@ -1,0 +1,11 @@
+.bird {
+    position: fixed;
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+
+    z-index: 999999;
+    pointer-events: none;
+}
